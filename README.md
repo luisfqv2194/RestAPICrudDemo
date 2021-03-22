@@ -1,4 +1,4 @@
-# RestAPICRUDDemo
+# Rest API CRUD Demo
 REST API in GO, that allows to do CRUD operations in a SQLlite database for a movie catalog.
 
 
