@@ -70,7 +70,7 @@ Deletes a movie by the specified ID on the URL
 Replace ID with an ID present in the database, if the ID doesn't exist in the datbase an error will be returned.
 
 ## Unit Test
-To run the tests within the app_test.go file run the following in the root folder:
+To run the tests within the main_test.go file run the following in the root folder:
 ```
 go test
 ```
